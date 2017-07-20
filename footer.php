@@ -4,6 +4,7 @@
 						<ul>
 							<li><a href="https://www.youtube.com/watch?v=LtyPEc2t18k">Popopo</a></li>
 							<li><a href="https://www.youtube.com/watch?v=kJQP7kiw5Fk">Bon son</a></li>
+							<img src="<?php echo get_template_directory_uri(); ?>/images/cat.png">
 						</ul>
 					</footer>
 
