@@ -71,7 +71,13 @@
 	}
 
 	body {
-		background: #1b1f22;
+		/*background: #1b1f22;*/
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#31f7f4+45,b2ff00+100 */
+background: #31f7f4; /* Old browsers */
+background: -moz-linear-gradient(top, #31f7f4 45%, #b2ff00 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #31f7f4 45%,#b2ff00 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #31f7f4 45%,#b2ff00 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#31f7f4', endColorstr='#b2ff00',GradientType=0 ); /* IE6-9 */
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after, body.is-switching *, body.is-switching *:before, body.is-switching *:after {
