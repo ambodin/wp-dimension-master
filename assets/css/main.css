@@ -1465,7 +1465,7 @@
 		max-width: 100%;
 		z-index: 3;
 	}
-	
+
 
 		#main article {
 			-moz-transform: translateY(0.25rem);
@@ -1484,7 +1484,7 @@
 			border-radius: 4px;
 			opacity: 0;
 		}
-		
+
 		 #pagemain #staticpage {
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
@@ -1493,7 +1493,7 @@
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
 			opacity: 0;
-		 
+
 		 }
 
 
@@ -1610,14 +1610,22 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
-		
+
 /* Custom logo */
 
 	.logo {
 		overflow: hidden;
 	}
-	
+
 	.logo img {
    		 width: 100%;
    		 height: 100%;
 	}
+
+#footer ul li {
+		color:pink;
+	}
+
+#footer ul li a {
+	text-decoration:none;
+}
