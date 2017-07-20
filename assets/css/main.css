@@ -1628,6 +1628,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#31f7f4', end
    		 height: 100%;
 	}
 
+#footer ul {
+	list-style-type: none;	
+}
+
 #footer ul li {
 		color:pink;
 	}
